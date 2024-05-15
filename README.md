@@ -2,7 +2,7 @@
 
 # Wander With
 
-This app is for hikers who will go for adventures.
+This app is for people who will go on adventures.
 
 #instructions
 - 
