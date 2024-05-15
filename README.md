@@ -10,3 +10,5 @@ This app is for hikers who will go for adventures.
 - flutter pub get
 - flutter run
 
+
+https://github.com/fitzode/wanderwith/issues/1
